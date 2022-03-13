@@ -1,6 +1,6 @@
 # test_project
 
-## Project setup - установка необходимых данных
+## Project setup - установка
 
 ```
 yarn install
